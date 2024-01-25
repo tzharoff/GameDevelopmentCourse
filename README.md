@@ -53,7 +53,7 @@ For support, please open an issue in this repository, or contact the course inst
 
 ## License
 
-This course material is provided under [MIT License](LICENSE.md). Feel free to use it for personal or educational purposes.
+This course material is provided under [MIT License](License.md). Feel free to use it for personal or educational purposes.
 
 ## Acknowledgments
 
