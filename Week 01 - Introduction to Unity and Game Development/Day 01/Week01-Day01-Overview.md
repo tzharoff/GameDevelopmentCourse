@@ -14,21 +14,21 @@ Welcome to the first day of our Unity Game Development course! Today, we'll emba
   - Introduction to the course structure and objectives.
   - Understanding the scope and potential of game development with Unity.
 
-#### Introduction to Unity as a Game Development Platform
+#### Setting Up and Navigating Unity
 - **Time**: 9:30 AM - 10:30 AM
 - **Activities**:
   - Overview of Unity and its significance in the industry.
-  - Understanding the Unity interface and key features.
   - Exploring different game genres and their development processes.
+  - Installing Unity Hub and setting up the Unity Editor.
 
 #### Break
 - **Time**: 10:30 AM - 10:45 AM
 
-#### Setting Up and Navigating Unity
+#### Introduction to Unity as a Game Development Platform
 - **Time**: 10:45 AM - 12:00 PM
 - **Activities**:
-  - Installing Unity Hub and setting up the Unity Editor.
   - Navigating the Unity interface: understanding the Scene view, Game view, Hierarchy, and Inspector.
+  - Understanding the Unity interface and key features.
   - Creating and saving a new Unity project.
 
 ### Afternoon Session
@@ -37,7 +37,7 @@ Welcome to the first day of our Unity Game Development course! Today, we'll emba
 - **Time**: 1:00 PM - 4:30 PM
 - **Objective**: Get hands-on experience with Unity.
 - **Tasks**:
-  - Install Unity (if not already installed) and set up your first project.
+  - Set up your first solo project.
   - Explore the Unity Editor by creating a simple scene with basic objects (cubes, spheres, etc.).
   - Experiment with object manipulation: moving, rotating, and scaling objects in the scene.
 
