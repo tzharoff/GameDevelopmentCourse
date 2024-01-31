@@ -11,7 +11,7 @@ Welcome to the first day of our Unity Game Development course! Today, we'll emba
 #### Welcome and Course Overview
 - **Time**: 9:00 AM - 9:30 AM
 - **Activities**:
-  - Introduction to the course structure and objectives.
+  - [Introduction to the course structure and objectives](Week01-Day01-01-WelcomeToCourse.md).
   - Understanding the scope and potential of game development with Unity.
 
 #### Setting Up and Navigating Unity
