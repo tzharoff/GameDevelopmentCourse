@@ -8,13 +8,13 @@ Welcome to the first day of our Unity Game Development course! Today, we'll emba
 
 ### Morning Session
 
-#### Welcome and Course Overview
+#### [Welcome and Course Overview](Week01-Day01-01-WelcomeToCourse.md)
 - **Time**: 9:00 AM - 9:30 AM
 - **Activities**:
-  - [Introduction to the course structure and objectives](Week01-Day01-01-WelcomeToCourse.md).
+  - Introduction to the course structure and objectives.
   - Understanding the scope and potential of game development with Unity.
 
-#### Setting Up and Navigating Unity
+#### [Setting Up and Navigating Unity](Week01-Day01-02-SettingUpAndNavigatingUnity.md)
 - **Time**: 9:30 AM - 10:30 AM
 - **Activities**:
   - Overview of Unity and its significance in the industry.
@@ -24,7 +24,7 @@ Welcome to the first day of our Unity Game Development course! Today, we'll emba
 #### Break
 - **Time**: 10:30 AM - 10:45 AM
 
-#### Introduction to Unity as a Game Development Platform
+#### [Introduction to Unity as a Game Development Platform](Week01-Day01-03-IntroductionToUnityAsAGameDevelopmentPlatform.md)
 - **Time**: 10:45 AM - 12:00 PM
 - **Activities**:
   - Navigating the Unity interface: understanding the Scene view, Game view, Hierarchy, and Inspector.
@@ -33,7 +33,7 @@ Welcome to the first day of our Unity Game Development course! Today, we'll emba
 
 ### Afternoon Session
 
-#### Solo Project Work
+#### [Solo Project Work](Week01-Day01-04-AssignmentExploringUnityInterface.md)
 - **Time**: 1:00 PM - 4:30 PM
 - **Objective**: Get hands-on experience with Unity.
 - **Tasks**:

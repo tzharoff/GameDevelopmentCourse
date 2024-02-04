@@ -8,14 +8,14 @@ On the second day of our Unity Game Development course, we'll delve deeper into 
 
 ### Morning Session
 
-#### Detailed Walkthrough of the Unity Editor
+#### [Detailed Walkthrough of the Unity Editor](Week01-Day02-01-DetailedWalkthroughOfTheUnityEditor.md)
 - **Time**: 9:00 AM - 10:00 AM
 - **Activities**:
   - In-depth exploration of the Unity Editor.
   - Detailed understanding of Scene view, Game view, Hierarchy, Project, and Inspector panels.
   - Explanation of GameObjects and how they form the building blocks of your Unity projects.
 
-#### Introduction to GameObjects and Components
+#### [Introduction to GameObjects and Components](Week01-Day02-02-IntroductionToGameObjectsAndComponents.md)
 - **Time**: 10:00 AM - 11:00 AM
 - **Activities**:
   - Understanding the concept of GameObjects in Unity.
@@ -25,7 +25,7 @@ On the second day of our Unity Game Development course, we'll delve deeper into 
 #### Break
 - **Time**: 11:00 AM - 11:15 AM
 
-#### Hands-On Session with GameObjects and Components
+#### [Hands-On Session with GameObjects and Components](Week01-Day02-03-HandsOnGameObjectsAndCompents.md)
 - **Time**: 11:15 AM - 12:00 PM
 - **Activities**:
   - Practical exercise: Creating and modifying GameObjects.
@@ -33,7 +33,7 @@ On the second day of our Unity Game Development course, we'll delve deeper into 
 
 ### Afternoon Session
 
-#### Solo Project Work
+#### [Solo Project Work](Week01-Day02-04-SoloProjectWork.md)
 - **Time**: 1:00 PM - 4:30 PM
 - **Objective**: Apply the morning’s learning to a practical scenario.
 - **Tasks**:
